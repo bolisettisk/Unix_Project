@@ -1,0 +1,25 @@
+{
+    "id": "ACF05700",
+    "path": "~/R_Scripts/Unix_Project/murders/wrangle-data.R",
+    "project_path": "wrangle-data.R",
+    "type": "r_source",
+    "hash": "1228032467",
+    "contents": "",
+    "dirty": false,
+    "created": 1627588094865.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "tempName": "Untitled1",
+        "cursorPosition": "4,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1620240236,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1620240236,
+    "read_only": false,
+    "read_only_alternatives": []
+}

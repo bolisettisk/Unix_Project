@@ -1,0 +1,25 @@
+{
+    "id": "D1BBE551",
+    "path": "~/R_Scripts/Unix_Project/murders/download-data.R",
+    "project_path": "download-data.R",
+    "type": "r_source",
+    "hash": "3175202322",
+    "contents": "",
+    "dirty": false,
+    "created": 1627588019725.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "tempName": "Untitled1",
+        "cursorPosition": "3,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1620240044,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1620240044,
+    "read_only": false,
+    "read_only_alternatives": []
+}
